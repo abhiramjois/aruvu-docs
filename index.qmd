@@ -1,14 +1,5 @@
----
-title: "Aruvu Docs"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
----
+# Preface {.unnumbered}
 
+This is a Quarto book.
 
+To learn more about Quarto books visit <https://quarto.org/docs/books>.

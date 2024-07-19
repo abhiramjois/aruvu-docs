@@ -1,0 +1,19 @@
+---
+title: "About"
+image: /img/Aruvulogo.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/aruvu_collab
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/aruvu-collaboratory/?trk=similar-pages
+    - icon: github
+      text: Github
+      href: https://github.com/abhiramjois/aruvu-docs
+
+---
+Aruvu Collaboratory LLP was formed to formalise and foster our decade-long engagements and connections with grassroots organisations and collectives across multiple places in Karnataka, India. 
+

@@ -1,5 +1,5 @@
 ---
-title: "Aruvu Collaboratory"
+title: "About"
 image: /img/Aruvulogo.png
 about:
   template: jolla
